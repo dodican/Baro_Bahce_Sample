@@ -1,0 +1,475 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAA450A1189B919800E0D4D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A0189B919800E0D4D5 /* Foundation.framework */; };
+		FAA450A3189B919800E0D4D5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */; };
+		FAA450A5189B919800E0D4D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A4189B919800E0D4D5 /* UIKit.framework */; };
+		FAA450AB189B919800E0D4D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAA450A9189B919800E0D4D5 /* InfoPlist.strings */; };
+		FAA450AD189B919800E0D4D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450AC189B919800E0D4D5 /* main.m */; };
+		FAA450B1189B919800E0D4D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450B0189B919800E0D4D5 /* AppDelegate.m */; };
+		FAA450B4189B919800E0D4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA450B2189B919800E0D4D5 /* Main.storyboard */; };
+		FAA450B7189B919800E0D4D5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450B6189B919800E0D4D5 /* ViewController.m */; };
+		FAA450B9189B919800E0D4D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA450B8189B919800E0D4D5 /* Images.xcassets */; };
+		FAA450C0189B919800E0D4D5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450BF189B919800E0D4D5 /* XCTest.framework */; };
+		FAA450C1189B919800E0D4D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A0189B919800E0D4D5 /* Foundation.framework */; };
+		FAA450C2189B919800E0D4D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A4189B919800E0D4D5 /* UIKit.framework */; };
+		FAA450CA189B919800E0D4D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAA450C8189B919800E0D4D5 /* InfoPlist.strings */; };
+		FAA450CC189B919800E0D4D5 /* Baro_Bahce_SampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450CB189B919800E0D4D5 /* Baro_Bahce_SampleTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FAA450C3189B919800E0D4D5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAA45095189B919800E0D4D5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAA4509C189B919800E0D4D5;
+			remoteInfo = Baro_Bahce_Sample;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FAA4509D189B919800E0D4D5 /* Baro_Bahce_Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baro_Bahce_Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAA450A0189B919800E0D4D5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FAA450A4189B919800E0D4D5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FAA450A8189B919800E0D4D5 /* Baro_Bahce_Sample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Baro_Bahce_Sample-Info.plist"; sourceTree = "<group>"; };
+		FAA450AA189B919800E0D4D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FAA450AC189B919800E0D4D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FAA450AE189B919800E0D4D5 /* Baro_Bahce_Sample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Baro_Bahce_Sample-Prefix.pch"; sourceTree = "<group>"; };
+		FAA450AF189B919800E0D4D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FAA450B0189B919800E0D4D5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FAA450B3189B919800E0D4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FAA450B5189B919800E0D4D5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FAA450B6189B919800E0D4D5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FAA450B8189B919800E0D4D5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FAA450BE189B919800E0D4D5 /* Baro_Bahce_SampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Baro_Bahce_SampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAA450BF189B919800E0D4D5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		FAA450C7189B919800E0D4D5 /* Baro_Bahce_SampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Baro_Bahce_SampleTests-Info.plist"; sourceTree = "<group>"; };
+		FAA450C9189B919800E0D4D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FAA450CB189B919800E0D4D5 /* Baro_Bahce_SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Baro_Bahce_SampleTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FAA4509A189B919800E0D4D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450A3189B919800E0D4D5 /* CoreGraphics.framework in Frameworks */,
+				FAA450A5189B919800E0D4D5 /* UIKit.framework in Frameworks */,
+				FAA450A1189B919800E0D4D5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAA450BB189B919800E0D4D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450C0189B919800E0D4D5 /* XCTest.framework in Frameworks */,
+				FAA450C2189B919800E0D4D5 /* UIKit.framework in Frameworks */,
+				FAA450C1189B919800E0D4D5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FAA45094189B919800E0D4D5 = {
+			isa = PBXGroup;
+			children = (
+				FAA450A6189B919800E0D4D5 /* Baro_Bahce_Sample */,
+				FAA450C5189B919800E0D4D5 /* Baro_Bahce_SampleTests */,
+				FAA4509F189B919800E0D4D5 /* Frameworks */,
+				FAA4509E189B919800E0D4D5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAA4509E189B919800E0D4D5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FAA4509D189B919800E0D4D5 /* Baro_Bahce_Sample.app */,
+				FAA450BE189B919800E0D4D5 /* Baro_Bahce_SampleTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FAA4509F189B919800E0D4D5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FAA450A0189B919800E0D4D5 /* Foundation.framework */,
+				FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */,
+				FAA450A4189B919800E0D4D5 /* UIKit.framework */,
+				FAA450BF189B919800E0D4D5 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FAA450A6189B919800E0D4D5 /* Baro_Bahce_Sample */ = {
+			isa = PBXGroup;
+			children = (
+				FAA450AF189B919800E0D4D5 /* AppDelegate.h */,
+				FAA450B0189B919800E0D4D5 /* AppDelegate.m */,
+				FAA450B2189B919800E0D4D5 /* Main.storyboard */,
+				FAA450B5189B919800E0D4D5 /* ViewController.h */,
+				FAA450B6189B919800E0D4D5 /* ViewController.m */,
+				FAA450B8189B919800E0D4D5 /* Images.xcassets */,
+				FAA450A7189B919800E0D4D5 /* Supporting Files */,
+			);
+			path = Baro_Bahce_Sample;
+			sourceTree = "<group>";
+		};
+		FAA450A7189B919800E0D4D5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FAA450A8189B919800E0D4D5 /* Baro_Bahce_Sample-Info.plist */,
+				FAA450A9189B919800E0D4D5 /* InfoPlist.strings */,
+				FAA450AC189B919800E0D4D5 /* main.m */,
+				FAA450AE189B919800E0D4D5 /* Baro_Bahce_Sample-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FAA450C5189B919800E0D4D5 /* Baro_Bahce_SampleTests */ = {
+			isa = PBXGroup;
+			children = (
+				FAA450CB189B919800E0D4D5 /* Baro_Bahce_SampleTests.m */,
+				FAA450C6189B919800E0D4D5 /* Supporting Files */,
+			);
+			path = Baro_Bahce_SampleTests;
+			sourceTree = "<group>";
+		};
+		FAA450C6189B919800E0D4D5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FAA450C7189B919800E0D4D5 /* Baro_Bahce_SampleTests-Info.plist */,
+				FAA450C8189B919800E0D4D5 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FAA4509C189B919800E0D4D5 /* Baro_Bahce_Sample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAA450CF189B919800E0D4D5 /* Build configuration list for PBXNativeTarget "Baro_Bahce_Sample" */;
+			buildPhases = (
+				FAA45099189B919800E0D4D5 /* Sources */,
+				FAA4509A189B919800E0D4D5 /* Frameworks */,
+				FAA4509B189B919800E0D4D5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Baro_Bahce_Sample;
+			productName = Baro_Bahce_Sample;
+			productReference = FAA4509D189B919800E0D4D5 /* Baro_Bahce_Sample.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FAA450BD189B919800E0D4D5 /* Baro_Bahce_SampleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAA450D2189B919800E0D4D5 /* Build configuration list for PBXNativeTarget "Baro_Bahce_SampleTests" */;
+			buildPhases = (
+				FAA450BA189B919800E0D4D5 /* Sources */,
+				FAA450BB189B919800E0D4D5 /* Frameworks */,
+				FAA450BC189B919800E0D4D5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAA450C4189B919800E0D4D5 /* PBXTargetDependency */,
+			);
+			name = Baro_Bahce_SampleTests;
+			productName = Baro_Bahce_SampleTests;
+			productReference = FAA450BE189B919800E0D4D5 /* Baro_Bahce_SampleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FAA45095189B919800E0D4D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Daghan_Ltds;
+				TargetAttributes = {
+					FAA450BD189B919800E0D4D5 = {
+						TestTargetID = FAA4509C189B919800E0D4D5;
+					};
+				};
+			};
+			buildConfigurationList = FAA45098189B919800E0D4D5 /* Build configuration list for PBXProject "Baro_Bahce_Sample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FAA45094189B919800E0D4D5;
+			productRefGroup = FAA4509E189B919800E0D4D5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAA4509C189B919800E0D4D5 /* Baro_Bahce_Sample */,
+				FAA450BD189B919800E0D4D5 /* Baro_Bahce_SampleTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FAA4509B189B919800E0D4D5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450B9189B919800E0D4D5 /* Images.xcassets in Resources */,
+				FAA450AB189B919800E0D4D5 /* InfoPlist.strings in Resources */,
+				FAA450B4189B919800E0D4D5 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAA450BC189B919800E0D4D5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450CA189B919800E0D4D5 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FAA45099189B919800E0D4D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450B7189B919800E0D4D5 /* ViewController.m in Sources */,
+				FAA450B1189B919800E0D4D5 /* AppDelegate.m in Sources */,
+				FAA450AD189B919800E0D4D5 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAA450BA189B919800E0D4D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAA450CC189B919800E0D4D5 /* Baro_Bahce_SampleTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FAA450C4189B919800E0D4D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAA4509C189B919800E0D4D5 /* Baro_Bahce_Sample */;
+			targetProxy = FAA450C3189B919800E0D4D5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FAA450A9189B919800E0D4D5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAA450AA189B919800E0D4D5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FAA450B2189B919800E0D4D5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAA450B3189B919800E0D4D5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FAA450C8189B919800E0D4D5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAA450C9189B919800E0D4D5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FAA450CD189B919800E0D4D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FAA450CE189B919800E0D4D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FAA450D0189B919800E0D4D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
+				INFOPLIST_FILE = "Baro_Bahce_Sample/Baro_Bahce_Sample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FAA450D1189B919800E0D4D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
+				INFOPLIST_FILE = "Baro_Bahce_Sample/Baro_Bahce_Sample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		FAA450D3189B919800E0D4D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Baro_Bahce_Sample.app/Baro_Bahce_Sample";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Baro_Bahce_SampleTests/Baro_Bahce_SampleTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		FAA450D4189B919800E0D4D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Baro_Bahce_Sample.app/Baro_Bahce_Sample";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
+				INFOPLIST_FILE = "Baro_Bahce_SampleTests/Baro_Bahce_SampleTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FAA45098189B919800E0D4D5 /* Build configuration list for PBXProject "Baro_Bahce_Sample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAA450CD189B919800E0D4D5 /* Debug */,
+				FAA450CE189B919800E0D4D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAA450CF189B919800E0D4D5 /* Build configuration list for PBXNativeTarget "Baro_Bahce_Sample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAA450D0189B919800E0D4D5 /* Debug */,
+				FAA450D1189B919800E0D4D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FAA450D2189B919800E0D4D5 /* Build configuration list for PBXNativeTarget "Baro_Bahce_SampleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAA450D3189B919800E0D4D5 /* Debug */,
+				FAA450D4189B919800E0D4D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FAA45095189B919800E0D4D5 /* Project object */;
+}
