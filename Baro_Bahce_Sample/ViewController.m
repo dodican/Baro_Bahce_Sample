@@ -26,4 +26,12 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void) hesapla:(int)a :(int)b{
+    int sonuc = a + b;
+    NSLog(@"%i", sonuc);
+    
+}
+
+
+
 @end

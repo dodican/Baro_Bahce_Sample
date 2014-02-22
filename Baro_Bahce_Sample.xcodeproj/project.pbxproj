@@ -7,13 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA18BE87189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA18BE86189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg */; };
+		FA18BE88189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA18BE86189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg */; };
+		FA602015189BBA3200221756 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA602014189BBA3200221756 /* MapKit.framework */; };
+		FAA42022189C433B000734FF /* kasarli-kofte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42008189C433B000734FF /* kasarli-kofte.jpg */; };
+		FAA42023189C433B000734FF /* kasarli-kofte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42008189C433B000734FF /* kasarli-kofte.jpg */; };
+		FAA42024189C433B000734FF /* izgara-kofte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42009189C433B000734FF /* izgara-kofte.jpg */; };
+		FAA42025189C433B000734FF /* izgara-kofte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42009189C433B000734FF /* izgara-kofte.jpg */; };
+		FAA42026189C433B000734FF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200A189C433B000734FF /* 1.png */; };
+		FAA42027189C433B000734FF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200A189C433B000734FF /* 1.png */; };
+		FAA42028189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200B189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg */; };
+		FAA42029189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200B189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg */; };
+		FAA4202A189C433B000734FF /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200C189C433B000734FF /* images.jpeg */; };
+		FAA4202B189C433B000734FF /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200C189C433B000734FF /* images.jpeg */; };
+		FAA4202C189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg */; };
+		FAA4202D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg */; };
+		FAA4202E189C433B000734FF /* firinda-somon_86a67e88.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200E189C433B000734FF /* firinda-somon_86a67e88.jpg */; };
+		FAA4202F189C433B000734FF /* firinda-somon_86a67e88.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200E189C433B000734FF /* firinda-somon_86a67e88.jpg */; };
+		FAA42030189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200F189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg */; };
+		FAA42031189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4200F189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg */; };
+		FAA42032189C433B000734FF /* 11942_40255692b5_medium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42010189C433B000734FF /* 11942_40255692b5_medium.jpg */; };
+		FAA42033189C433B000734FF /* 11942_40255692b5_medium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42010189C433B000734FF /* 11942_40255692b5_medium.jpg */; };
+		FAA42034189C433B000734FF /* 20130722__8466150164.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42011189C433B000734FF /* 20130722__8466150164.jpg */; };
+		FAA42035189C433B000734FF /* 20130722__8466150164.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42011189C433B000734FF /* 20130722__8466150164.jpg */; };
+		FAA42036189C433B000734FF /* Sauce-Cafe-de-Paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42012189C433B000734FF /* Sauce-Cafe-de-Paris.jpg */; };
+		FAA42037189C433B000734FF /* Sauce-Cafe-de-Paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42012189C433B000734FF /* Sauce-Cafe-de-Paris.jpg */; };
+		FAA42038189C433B000734FF /* Tavuk-Izgara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42013189C433B000734FF /* Tavuk-Izgara.jpg */; };
+		FAA42039189C433B000734FF /* Tavuk-Izgara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42013189C433B000734FF /* Tavuk-Izgara.jpg */; };
+		FAA4203A189C433B000734FF /* firinda_kuzu_pirzola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42014189C433B000734FF /* firinda_kuzu_pirzola.jpg */; };
+		FAA4203B189C433B000734FF /* firinda_kuzu_pirzola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42014189C433B000734FF /* firinda_kuzu_pirzola.jpg */; };
+		FAA4203C189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif in Resources */ = {isa = PBXBuildFile; fileRef = FAA42015189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif */; };
+		FAA4203D189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif in Resources */ = {isa = PBXBuildFile; fileRef = FAA42015189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif */; };
+		FAA4203E189C433B000734FF /* sac-kavurma-99.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42016189C433B000734FF /* sac-kavurma-99.jpg */; };
+		FAA4203F189C433B000734FF /* sac-kavurma-99.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42016189C433B000734FF /* sac-kavurma-99.jpg */; };
+		FAA42040189C433B000734FF /* DSC_0022.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42017189C433B000734FF /* DSC_0022.jpg */; };
+		FAA42041189C433B000734FF /* DSC_0022.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42017189C433B000734FF /* DSC_0022.jpg */; };
+		FAA42042189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA42018189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png */; };
+		FAA42043189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA42018189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png */; };
+		FAA42044189C433B000734FF /* kancerogeny-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42019189C433B000734FF /* kancerogeny-1.jpg */; };
+		FAA42045189C433B000734FF /* kancerogeny-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42019189C433B000734FF /* kancerogeny-1.jpg */; };
+		FAA42046189C433B000734FF /* kuzu-tandir-firinda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201A189C433B000734FF /* kuzu-tandir-firinda.jpg */; };
+		FAA42047189C433B000734FF /* kuzu-tandir-firinda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201A189C433B000734FF /* kuzu-tandir-firinda.jpg */; };
+		FAA42048189C433B000734FF /* kebap8221_525-277.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201B189C433B000734FF /* kebap8221_525-277.jpg */; };
+		FAA42049189C433B000734FF /* kebap8221_525-277.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201B189C433B000734FF /* kebap8221_525-277.jpg */; };
+		FAA4204A189C433B000734FF /* köfte-nasıl-yapılır.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201C189C433B000734FF /* köfte-nasıl-yapılır.jpg */; };
+		FAA4204B189C433B000734FF /* köfte-nasıl-yapılır.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201C189C433B000734FF /* köfte-nasıl-yapılır.jpg */; };
+		FAA4204C189C433B000734FF /* Fajita.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201D189C433B000734FF /* Fajita.jpg */; };
+		FAA4204D189C433B000734FF /* Fajita.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201D189C433B000734FF /* Fajita.jpg */; };
+		FAA4204E189C433B000734FF /* Bone Steak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201E189C433B000734FF /* Bone Steak.jpg */; };
+		FAA4204F189C433B000734FF /* Bone Steak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201E189C433B000734FF /* Bone Steak.jpg */; };
+		FAA42050189C433B000734FF /* icerik_galeri_1328007730.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201F189C433B000734FF /* icerik_galeri_1328007730.jpg */; };
+		FAA42051189C433B000734FF /* icerik_galeri_1328007730.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA4201F189C433B000734FF /* icerik_galeri_1328007730.jpg */; };
+		FAA42052189C433B000734FF /* bonfile-izgara-300x193.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42020189C433B000734FF /* bonfile-izgara-300x193.jpg */; };
+		FAA42053189C433B000734FF /* bonfile-izgara-300x193.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42020189C433B000734FF /* bonfile-izgara-300x193.jpg */; };
+		FAA42054189C433B000734FF /* ızgara-biftek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42021189C433B000734FF /* ızgara-biftek.jpg */; };
+		FAA42055189C433B000734FF /* ızgara-biftek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAA42021189C433B000734FF /* ızgara-biftek.jpg */; };
 		FAA450A1189B919800E0D4D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A0189B919800E0D4D5 /* Foundation.framework */; };
 		FAA450A3189B919800E0D4D5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */; };
 		FAA450A5189B919800E0D4D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A4189B919800E0D4D5 /* UIKit.framework */; };
 		FAA450AB189B919800E0D4D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAA450A9189B919800E0D4D5 /* InfoPlist.strings */; };
 		FAA450AD189B919800E0D4D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450AC189B919800E0D4D5 /* main.m */; };
 		FAA450B1189B919800E0D4D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450B0189B919800E0D4D5 /* AppDelegate.m */; };
-		FAA450B4189B919800E0D4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA450B2189B919800E0D4D5 /* Main.storyboard */; };
 		FAA450B7189B919800E0D4D5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450B6189B919800E0D4D5 /* ViewController.m */; };
 		FAA450B9189B919800E0D4D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA450B8189B919800E0D4D5 /* Images.xcassets */; };
 		FAA450C0189B919800E0D4D5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450BF189B919800E0D4D5 /* XCTest.framework */; };
@@ -21,6 +75,7 @@
 		FAA450C2189B919800E0D4D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAA450A4189B919800E0D4D5 /* UIKit.framework */; };
 		FAA450CA189B919800E0D4D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAA450C8189B919800E0D4D5 /* InfoPlist.strings */; };
 		FAA450CC189B919800E0D4D5 /* Baro_Bahce_SampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAA450CB189B919800E0D4D5 /* Baro_Bahce_SampleTests.m */; };
+		FABAE323189BC1AB00897DAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA450B2189B919800E0D4D5 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +89,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA18BE86189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "recipe-image-legacy-id--52759_11.jpg"; path = "../../Downloads/recipe-image-legacy-id--52759_11.jpg"; sourceTree = "<group>"; };
+		FA602014189BBA3200221756 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FAA42008189C433B000734FF /* kasarli-kofte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "kasarli-kofte.jpg"; path = "../../Downloads/kasarli-kofte.jpg"; sourceTree = "<group>"; };
+		FAA42009189C433B000734FF /* izgara-kofte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "izgara-kofte.jpg"; path = "../../Downloads/izgara-kofte.jpg"; sourceTree = "<group>"; };
+		FAA4200A189C433B000734FF /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../Downloads/1.png; sourceTree = "<group>"; };
+		FAA4200B189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "recipe-image-legacy-id--52759_11.jpg"; path = "../../Downloads/recipe-image-legacy-id--52759_11.jpg"; sourceTree = "<group>"; };
+		FAA4200C189C433B000734FF /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpeg; path = ../../Downloads/images.jpeg; sourceTree = "<group>"; };
+		FAA4200D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg"; path = "../../Downloads/sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg"; sourceTree = "<group>"; };
+		FAA4200E189C433B000734FF /* firinda-somon_86a67e88.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "firinda-somon_86a67e88.jpg"; path = "../../Downloads/firinda-somon_86a67e88.jpg"; sourceTree = "<group>"; };
+		FAA4200F189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sebzelisoyasoslutavukseritleri1.jpg; path = ../../Downloads/sebzelisoyasoslutavukseritleri1.jpg; sourceTree = "<group>"; };
+		FAA42010189C433B000734FF /* 11942_40255692b5_medium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 11942_40255692b5_medium.jpg; path = ../../Downloads/11942_40255692b5_medium.jpg; sourceTree = "<group>"; };
+		FAA42011189C433B000734FF /* 20130722__8466150164.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 20130722__8466150164.jpg; path = ../../Downloads/20130722__8466150164.jpg; sourceTree = "<group>"; };
+		FAA42012189C433B000734FF /* Sauce-Cafe-de-Paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Sauce-Cafe-de-Paris.jpg"; path = "../../Downloads/Sauce-Cafe-de-Paris.jpg"; sourceTree = "<group>"; };
+		FAA42013189C433B000734FF /* Tavuk-Izgara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Tavuk-Izgara.jpg"; path = "../../Downloads/Tavuk-Izgara.jpg"; sourceTree = "<group>"; };
+		FAA42014189C433B000734FF /* firinda_kuzu_pirzola.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = firinda_kuzu_pirzola.jpg; path = ../../Downloads/firinda_kuzu_pirzola.jpg; sourceTree = "<group>"; };
+		FAA42015189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = KUZU_KONTRFILE_MADALYON.gif; path = ../../Downloads/KUZU_KONTRFILE_MADALYON.gif; sourceTree = "<group>"; };
+		FAA42016189C433B000734FF /* sac-kavurma-99.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sac-kavurma-99.jpg"; path = "../../Downloads/sac-kavurma-99.jpg"; sourceTree = "<group>"; };
+		FAA42017189C433B000734FF /* DSC_0022.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DSC_0022.jpg; path = ../../Downloads/DSC_0022.jpg; sourceTree = "<group>"; };
+		FAA42018189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = saaaaaa_0_0_Size918X612.jpg.png; path = ../../Downloads/saaaaaa_0_0_Size918X612.jpg.png; sourceTree = "<group>"; };
+		FAA42019189C433B000734FF /* kancerogeny-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "kancerogeny-1.jpg"; path = "../../Downloads/kancerogeny-1.jpg"; sourceTree = "<group>"; };
+		FAA4201A189C433B000734FF /* kuzu-tandir-firinda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "kuzu-tandir-firinda.jpg"; path = "../../Downloads/kuzu-tandir-firinda.jpg"; sourceTree = "<group>"; };
+		FAA4201B189C433B000734FF /* kebap8221_525-277.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "kebap8221_525-277.jpg"; path = "../../Downloads/kebap8221_525-277.jpg"; sourceTree = "<group>"; };
+		FAA4201C189C433B000734FF /* köfte-nasıl-yapılır.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "köfte-nasıl-yapılır.jpg"; path = "../../Downloads/köfte-nasıl-yapılır.jpg"; sourceTree = "<group>"; };
+		FAA4201D189C433B000734FF /* Fajita.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Fajita.jpg; path = ../../Downloads/Fajita.jpg; sourceTree = "<group>"; };
+		FAA4201E189C433B000734FF /* Bone Steak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Bone Steak.jpg"; path = "../../Downloads/Bone Steak.jpg"; sourceTree = "<group>"; };
+		FAA4201F189C433B000734FF /* icerik_galeri_1328007730.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = icerik_galeri_1328007730.jpg; path = ../../Downloads/icerik_galeri_1328007730.jpg; sourceTree = "<group>"; };
+		FAA42020189C433B000734FF /* bonfile-izgara-300x193.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "bonfile-izgara-300x193.jpg"; path = "../../Downloads/bonfile-izgara-300x193.jpg"; sourceTree = "<group>"; };
+		FAA42021189C433B000734FF /* ızgara-biftek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ızgara-biftek.jpg"; path = "../../Downloads/ızgara-biftek.jpg"; sourceTree = "<group>"; };
 		FAA4509D189B919800E0D4D5 /* Baro_Bahce_Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baro_Bahce_Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA450A0189B919800E0D4D5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,6 +143,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA602015189BBA3200221756 /* MapKit.framework in Frameworks */,
 				FAA450A3189B919800E0D4D5 /* CoreGraphics.framework in Frameworks */,
 				FAA450A5189B919800E0D4D5 /* UIKit.framework in Frameworks */,
 				FAA450A1189B919800E0D4D5 /* Foundation.framework in Frameworks */,
@@ -79,9 +163,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA18BE75189BD2FC00CA9052 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				FAA42008189C433B000734FF /* kasarli-kofte.jpg */,
+				FAA42009189C433B000734FF /* izgara-kofte.jpg */,
+				FAA4200A189C433B000734FF /* 1.png */,
+				FAA4200B189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg */,
+				FAA4200C189C433B000734FF /* images.jpeg */,
+				FAA4200D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg */,
+				FAA4200E189C433B000734FF /* firinda-somon_86a67e88.jpg */,
+				FAA4200F189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg */,
+				FAA42010189C433B000734FF /* 11942_40255692b5_medium.jpg */,
+				FAA42011189C433B000734FF /* 20130722__8466150164.jpg */,
+				FAA42012189C433B000734FF /* Sauce-Cafe-de-Paris.jpg */,
+				FAA42013189C433B000734FF /* Tavuk-Izgara.jpg */,
+				FAA42014189C433B000734FF /* firinda_kuzu_pirzola.jpg */,
+				FAA42015189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif */,
+				FAA42016189C433B000734FF /* sac-kavurma-99.jpg */,
+				FAA42017189C433B000734FF /* DSC_0022.jpg */,
+				FAA42018189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png */,
+				FAA42019189C433B000734FF /* kancerogeny-1.jpg */,
+				FAA4201A189C433B000734FF /* kuzu-tandir-firinda.jpg */,
+				FAA4201B189C433B000734FF /* kebap8221_525-277.jpg */,
+				FAA4201C189C433B000734FF /* köfte-nasıl-yapılır.jpg */,
+				FAA4201D189C433B000734FF /* Fajita.jpg */,
+				FAA4201E189C433B000734FF /* Bone Steak.jpg */,
+				FAA4201F189C433B000734FF /* icerik_galeri_1328007730.jpg */,
+				FAA42020189C433B000734FF /* bonfile-izgara-300x193.jpg */,
+				FAA42021189C433B000734FF /* ızgara-biftek.jpg */,
+				FA18BE86189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
 		FAA45094189B919800E0D4D5 = {
 			isa = PBXGroup;
 			children = (
+				FA18BE75189BD2FC00CA9052 /* icons */,
 				FAA450A6189B919800E0D4D5 /* Baro_Bahce_Sample */,
 				FAA450C5189B919800E0D4D5 /* Baro_Bahce_SampleTests */,
 				FAA4509F189B919800E0D4D5 /* Frameworks */,
@@ -101,6 +220,7 @@
 		FAA4509F189B919800E0D4D5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FA602014189BBA3200221756 /* MapKit.framework */,
 				FAA450A0189B919800E0D4D5 /* Foundation.framework */,
 				FAA450A2189B919800E0D4D5 /* CoreGraphics.framework */,
 				FAA450A4189B919800E0D4D5 /* UIKit.framework */,
@@ -228,9 +348,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAA42054189C433B000734FF /* ızgara-biftek.jpg in Resources */,
+				FABAE323189BC1AB00897DAA /* Main.storyboard in Resources */,
+				FAA42032189C433B000734FF /* 11942_40255692b5_medium.jpg in Resources */,
+				FAA4204C189C433B000734FF /* Fajita.jpg in Resources */,
+				FAA4203E189C433B000734FF /* sac-kavurma-99.jpg in Resources */,
+				FAA42022189C433B000734FF /* kasarli-kofte.jpg in Resources */,
+				FAA42048189C433B000734FF /* kebap8221_525-277.jpg in Resources */,
+				FAA4203C189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif in Resources */,
+				FAA42034189C433B000734FF /* 20130722__8466150164.jpg in Resources */,
+				FAA4202A189C433B000734FF /* images.jpeg in Resources */,
+				FAA42038189C433B000734FF /* Tavuk-Izgara.jpg in Resources */,
 				FAA450B9189B919800E0D4D5 /* Images.xcassets in Resources */,
+				FAA4202C189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg in Resources */,
+				FAA42052189C433B000734FF /* bonfile-izgara-300x193.jpg in Resources */,
+				FA18BE87189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg in Resources */,
+				FAA4202E189C433B000734FF /* firinda-somon_86a67e88.jpg in Resources */,
+				FAA4204E189C433B000734FF /* Bone Steak.jpg in Resources */,
+				FAA42040189C433B000734FF /* DSC_0022.jpg in Resources */,
+				FAA42036189C433B000734FF /* Sauce-Cafe-de-Paris.jpg in Resources */,
 				FAA450AB189B919800E0D4D5 /* InfoPlist.strings in Resources */,
-				FAA450B4189B919800E0D4D5 /* Main.storyboard in Resources */,
+				FAA4203A189C433B000734FF /* firinda_kuzu_pirzola.jpg in Resources */,
+				FAA42050189C433B000734FF /* icerik_galeri_1328007730.jpg in Resources */,
+				FAA42024189C433B000734FF /* izgara-kofte.jpg in Resources */,
+				FAA4204A189C433B000734FF /* köfte-nasıl-yapılır.jpg in Resources */,
+				FAA42030189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg in Resources */,
+				FAA42046189C433B000734FF /* kuzu-tandir-firinda.jpg in Resources */,
+				FAA42044189C433B000734FF /* kancerogeny-1.jpg in Resources */,
+				FAA42042189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png in Resources */,
+				FAA42028189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg in Resources */,
+				FAA42026189C433B000734FF /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,7 +385,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAA4202D189C433B000734FF /* sandal-mey-de-cipura-levrek-veya-tavuk-izgara-karides-izgara-salata-ve-1-icki_510252a01e0be_0.jpg in Resources */,
+				FAA42033189C433B000734FF /* 11942_40255692b5_medium.jpg in Resources */,
+				FAA42037189C433B000734FF /* Sauce-Cafe-de-Paris.jpg in Resources */,
+				FAA4203B189C433B000734FF /* firinda_kuzu_pirzola.jpg in Resources */,
+				FAA42045189C433B000734FF /* kancerogeny-1.jpg in Resources */,
+				FAA42039189C433B000734FF /* Tavuk-Izgara.jpg in Resources */,
+				FA18BE88189C033700CA9052 /* recipe-image-legacy-id--52759_11.jpg in Resources */,
+				FAA42023189C433B000734FF /* kasarli-kofte.jpg in Resources */,
+				FAA42029189C433B000734FF /* recipe-image-legacy-id--52759_11.jpg in Resources */,
+				FAA4202B189C433B000734FF /* images.jpeg in Resources */,
+				FAA42047189C433B000734FF /* kuzu-tandir-firinda.jpg in Resources */,
+				FAA42031189C433B000734FF /* sebzelisoyasoslutavukseritleri1.jpg in Resources */,
 				FAA450CA189B919800E0D4D5 /* InfoPlist.strings in Resources */,
+				FAA4203F189C433B000734FF /* sac-kavurma-99.jpg in Resources */,
+				FAA42049189C433B000734FF /* kebap8221_525-277.jpg in Resources */,
+				FAA4204F189C433B000734FF /* Bone Steak.jpg in Resources */,
+				FAA4204B189C433B000734FF /* köfte-nasıl-yapılır.jpg in Resources */,
+				FAA4204D189C433B000734FF /* Fajita.jpg in Resources */,
+				FAA42053189C433B000734FF /* bonfile-izgara-300x193.jpg in Resources */,
+				FAA42025189C433B000734FF /* izgara-kofte.jpg in Resources */,
+				FAA42055189C433B000734FF /* ızgara-biftek.jpg in Resources */,
+				FAA42027189C433B000734FF /* 1.png in Resources */,
+				FAA4202F189C433B000734FF /* firinda-somon_86a67e88.jpg in Resources */,
+				FAA42051189C433B000734FF /* icerik_galeri_1328007730.jpg in Resources */,
+				FAA42035189C433B000734FF /* 20130722__8466150164.jpg in Resources */,
+				FAA42043189C433B000734FF /* saaaaaa_0_0_Size918X612.jpg.png in Resources */,
+				FAA42041189C433B000734FF /* DSC_0022.jpg in Resources */,
+				FAA4203D189C433B000734FF /* KUZU_KONTRFILE_MADALYON.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,6 +556,7 @@
 				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
 				INFOPLIST_FILE = "Baro_Bahce_Sample/Baro_Bahce_Sample-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -395,6 +570,7 @@
 				GCC_PREFIX_HEADER = "Baro_Bahce_Sample/Baro_Bahce_Sample-Prefix.pch";
 				INFOPLIST_FILE = "Baro_Bahce_Sample/Baro_Bahce_Sample-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +636,7 @@
 				FAA450D1189B919800E0D4D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAA450D2189B919800E0D4D5 /* Build configuration list for PBXNativeTarget "Baro_Bahce_SampleTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +645,7 @@
 				FAA450D4189B919800E0D4D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

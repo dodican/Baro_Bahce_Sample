@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+
+- (void) hesapla : (int) a : (int) b;
 @end
